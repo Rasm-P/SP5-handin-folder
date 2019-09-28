@@ -35,7 +35,9 @@ The solution for exercise "JavaScript, DOM, AJAX, CORS and SVG" can be found as 
 projects "SP5_AJAX_CORS" and "SP5_AJAX_CORS_Proxy".
 
 Deployment backend: https://barfodpraetorius.dk/SP5_AJAX_CORS_Proxy/api/generic/dk
+
 Deployment frontend: https://barfodpraetorius.dk/SP5_AJAX_CORS/
+
 
 The solution for exercise "REST with JAX RS" can be found as the 
 project "RESTwithJAXRSPart2".
