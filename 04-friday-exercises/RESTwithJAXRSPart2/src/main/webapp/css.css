@@ -1,0 +1,23 @@
+body {
+    background-color: lightcyan;
+}
+
+.centered {
+    text-align: center;
+}
+h1, h2, h3, h4, h5, p, a {}
+tr,td {text-align:left;}
+button, input {
+    margin: 2px;
+}
+
+.comic {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.textbox {
+    text-align: left;
+    width: 90%;
+    margin-left: 5%;
+}
+
